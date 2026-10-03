@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores para el layout principal -->
+    <color name="app_surface">#FFFFFF</color>
+    <color name="app_text">#333333</color>
+
+    <!-- CAMBIAMOS EL BLANCO POR UN COLOR OSCURO PARA QUE RESALTE EL CÍRCULO -->
+    <color name="splash_background">#121212</color>
+    <color name="splash_accent">#F28C28</color>
+</resources>
